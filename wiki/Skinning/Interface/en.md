@@ -32,6 +32,7 @@ Interface skinning elements are used in multiple game modes or parts of the osu!
 **Notes:**
 
 - [osu!supporter](/wiki/osu!supporter) required
+  - Requires to set "Remember Password" on Account Login in order to work.
 - This should say "Welcome".
 
 ---
